@@ -49,11 +49,11 @@ We combine Integrity, Experience and Innovation, to deliver the Birthday Wishes 
 
 * **About view 2**
 
-<img src=https://imgur.com/k4zSKrD.jpg" alt="About view 2" width=1000 height=500/>
+<img src="https://imgur.com/k4zSKrD.jpg" alt="About view 2" width=1000 height=500/>
                                                            
 * **About view 3**
 
-<img src=https://imgur.com/NUFphLx.jpg" alt="About view 3" width=1000 height=500/>
+<img src="https://imgur.com/NUFphLx.jpg" alt="About view 3" width=1000 height=500/>
 
 * **Message**
 
