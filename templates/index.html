@@ -1,0 +1,34 @@
+<head>
+<title>C Vision &#8211; Envision the future</title>
+
+{% extends 'base.html' %}
+{% block content %} 
+<!-- Masthead-->
+<header class="masthead">
+    <div class="container">
+        <div class="masthead-subheading">Welcome To Our Birthday Wisher!</div>
+        <div class="masthead-heading text-uppercase">It's Nice To Meet You</div>
+        <a class="btn btn-primary btn-xl text-uppercase" href="http://www.cvision.io">Learn more...</a>
+    </div>
+</header>
+<!-- Section-2 -->
+  <section class="page-section clearfix bg-light" id="home">
+    <div class="container">
+      <div class="intro">
+        <img class="intro-img img-fluid mb-3 mb-lg-0 rounded" src="https://imgur.com/9oHdMTv.jpg" alt="..." />
+        <div class="intro-text left-0 text-center bg-faded p-5 rounded">
+          <h2 class="section-heading mb-4">
+            <span class="section-heading-upper">C-Vision Birthday Wisher</span>
+            <span class="section-heading-lower">Automatic Birthday Wisher</span>
+        </h2>
+            <p class="mb-3">We follow a very holistic approach that is simple yet effective – Every Wish of our Company starts with the bottom of our hearts, hand-picked Wishers.
+              Once you try it, our Birthday Wisher will be a blissful addition to your everyday morning routine with Inspire & Empower - we guarantee it!</p>
+                <div class="intro-button mx-auto"><a class="btn btn-dark btn-xl" href="{% url 'dashboard' %}">Upload Data</a>
+                &nbsp;<a class="btn btn-dark btn-xl" href="{% url 'add_form' %}">Add Data</a></div>
+        </div>
+      </div>
+    </div>
+   </section>
+  
+
+{% endblock %}
