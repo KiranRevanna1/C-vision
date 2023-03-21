@@ -26,7 +26,7 @@ SECRET_KEY = "your key"
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','c-vision-birthday-wisher.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1','https://c-vision-production.up.railway.app']
 
 
 # Application definition
